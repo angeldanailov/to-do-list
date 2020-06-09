@@ -1,3 +1,9 @@
-body {
-background: purple;
+h1 {
+	text-transform: uppercase;
+}
+
+#container {
+	background: grey;
+	width: 360px;
+	margin: 0 auto;
 }
